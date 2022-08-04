@@ -1,0 +1,16 @@
+zabbix:
+  url: http://host/zabbix/api_jsonrpc.php
+  user: username
+  password: pwd
+
+octopus:
+  url: https://url/
+  api-key: API-xxx
+
+vmware:
+  url: https://url
+  user: api-readonly-user@vsphere.local
+  password: pwd
+
+database:
+  dsn: postgres://user:@localhost:5432/database?sslmode=disable

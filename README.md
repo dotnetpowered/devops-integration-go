@@ -1,2 +1,5 @@
-# ops-integration-go
- Integration with Ops Tools using Go
+# devops-integration-go
+DevOps tool integration using Go
+* Octopus Deploy
+* VMWare vSphere
+* Zabbix
